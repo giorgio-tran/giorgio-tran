@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi There 👋
 
+My professional portfolio can be found [here](https://giorgio-tran.com).
 <!--
 **giorgio-tran/giorgio-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
